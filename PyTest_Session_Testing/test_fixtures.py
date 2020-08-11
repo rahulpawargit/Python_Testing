@@ -6,6 +6,7 @@ import time
 
 driver = None
 
+
 @pytest.fixture()
 def init_drive():
     global driver
@@ -24,6 +25,10 @@ def test_verifyTitle(init_drive):
     time.sleep(2)
 
 def test_VerifyURL(init_drive):
+    assert driver.current_url == "https://www.google.com/?gws_rd=ssl"
+    time.sleep(2)
+
+def test_VerifyURL2(init_drive):
     assert driver.current_url == "https://www.google.com/?gws_rd=ssl"
     time.sleep(2)
 
