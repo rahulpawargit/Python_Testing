@@ -6,7 +6,10 @@
       <change afterPath="$PROJECT_DIR$/PyTest_Session_Testing/test_param_rough.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PyTest_Session_Testing/test_parameterization.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/=" beforeDir="false" afterPath="$PROJECT_DIR$/=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/==" beforeDir="false" afterPath="$PROJECT_DIR$/==" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PyTest_Session_Testing/test_demo3.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyTest_Session_Testing/test_demo3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,8 +79,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="19" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="147">
+              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -88,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/test_parameterization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="198">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -138,6 +141,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -213,11 +222,6 @@
             <path>
               <item name="Udemy_SeleniumTutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy_SeleniumTutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy_SeleniumTutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy_SeleniumTutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="PyTest_Session_Testing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Udemy_SeleniumTutorial" type="b2602c69:ProjectViewProjectNode" />
@@ -356,18 +360,17 @@
       <option name="presentableId" value="Default" />
       <updated>1587105886748</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added the Parameterization code here">
+      <created>1597305853492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597305853492</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_demo3_py - 2020.08.06 at 13h 48m 47s.xml">
-      <configuration name="pytest in test_demo3.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_demo3_py - 2020.08.06 at 15h 23m 21s.xml">
-      <configuration name="pytest in test_demo3.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_demo3_py - 2020.08.06 at 15h 23m 52s.xml">
-      <configuration name="pytest in test_demo3.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_test_demo3_py - 2020.08.09 at 18h 19m 07s.xml">
       <configuration name="pytest in test_demo3.py" configurationId="tests" />
     </history-entry>
@@ -389,6 +392,15 @@
     <history-entry file="pytest_for_test_parameterization_TestBcgLogin_test_login - 2020.08.13 at 13h 10m 28s.xml">
       <configuration name="pytest for test_parameterization.TestBcgLogin.test_login" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_for_test_parameterization_TestBcgLogin_test_login - 2020.08.13 at 13h 57m 03s.xml">
+      <configuration name="pytest for test_parameterization.TestBcgLogin.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_parameterization_TestBcgLogin_test_login - 2020.08.13 at 14h 04m 12s.xml">
+      <configuration name="pytest for test_parameterization.TestBcgLogin.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_parameterization_TestBcgLogin_test_login - 2020.08.13 at 14h 11m 51s.xml">
+      <configuration name="pytest for test_parameterization.TestBcgLogin.test_login" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -407,7 +419,7 @@
       <window_info id="Favorites" order="2" sideWeight="0.61605203" side_tool="true" weight="0.24330357" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" x="11" y="192" width="1344" height="344" id="Run" order="2" weight="0.6923077" />
+      <window_info anchor="bottom" x="11" y="192" width="1344" height="344" id="Run" order="2" weight="0.58756137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -420,6 +432,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the Parameterization code here" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the Parameterization code here" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/BrowserDriver/Capture_Screenshot.py" />
@@ -821,8 +837,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="147">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -831,8 +847,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/test_parameterization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="198">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
