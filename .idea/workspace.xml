@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3d88286-ec3d-4e68-bf2a-fc1f40178cde" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PyTest_Session_Testing/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTest_Session_Testing/test_param_rough.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTest_Session_Testing/test_parameterization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PyTest_Session_Testing/test_demo3.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyTest_Session_Testing/test_demo3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyTest_Session_Testing/test_fixtures.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyTest_Session_Testing/test_fixtures.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,39 +20,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwitchtoFrame.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExcelHandling.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
-              <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/demo1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/test_Demo1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -58,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/test_demo3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            <state relative-caret-position="221">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -87,6 +57,39 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/test_param_rough.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/conftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="19" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="16" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/test_parameterization.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -184,6 +187,10 @@
         <option value="$PROJECT_DIR$/PyTest_Session_Testing/Parrelle_Exeuction.py" />
         <option value="$PROJECT_DIR$/PyTest_Session_Testing/test_fixtures.py" />
         <option value="$PROJECT_DIR$/PyTest_Session_Testing/test_demo3.py" />
+        <option value="$PROJECT_DIR$/PyTest_Session_Testing/Pytest_Param.py" />
+        <option value="$PROJECT_DIR$/PyTest_Session_Testing/test_param_rough.py" />
+        <option value="$PROJECT_DIR$/PyTest_Session_Testing/conftest.py" />
+        <option value="$PROJECT_DIR$/PyTest_Session_Testing/test_parameterization.py" />
       </list>
     </option>
   </component>
@@ -199,6 +206,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,7 +233,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,50 +259,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_demo3.py">
-    <configuration name="ExcelHandling" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Udemy_SeleniumTutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExcelHandling.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Parrelle_Exeuction" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Udemy_SeleniumTutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyTest_Session_Testing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyTest_Session_Testing/Parrelle_Exeuction.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_Demo1.test_demo3" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_parameterization.TestBcgLogin.test_login">
+    <configuration name="pytest for Pytest_Param.test_calcualation" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Udemy_SeleniumTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,11 +271,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Demo1.test_demo3&quot;" />
+      <option name="_new_target" value="&quot;Pytest_Param.test_calcualation&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_demo3.test_demo_login_Outlook" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_param_rough.test_calcualation" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Udemy_SeleniumTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,7 +286,22 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_demo3.test_demo_login_Outlook&quot;" />
+      <option name="_new_target" value="&quot;test_param_rough.test_calcualation&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_parameterization.TestBcgLogin.test_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_SeleniumTutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyTest_Session_Testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_parameterization.TestBcgLogin.test_login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -340,13 +320,28 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in test_parameterization.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_SeleniumTutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyTest_Session_Testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/PyTest_Session_Testing/test_parameterization.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_parameterization.TestBcgLogin.test_login" />
+        <item itemvalue="Python tests.pytest in test_parameterization.py" />
+        <item itemvalue="Python tests.pytest for test_param_rough.test_calcualation" />
+        <item itemvalue="Python tests.pytest for Pytest_Param.test_calcualation" />
         <item itemvalue="Python tests.pytest in test_demo3.py" />
-        <item itemvalue="Python tests.pytest for test_demo3.test_demo_login_Outlook" />
-        <item itemvalue="Python.Parrelle_Exeuction" />
-        <item itemvalue="Python tests.pytest for test_Demo1.test_demo3" />
-        <item itemvalue="Python.ExcelHandling" />
       </list>
     </recent_temporary>
   </component>
@@ -364,24 +359,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_test_yield_fixture_demo1_test_methoc_b - 2020.06.08 at 10h 36m 01s.xml">
-      <configuration name="pytest for test_yield_fixture_demo1.test_methoc_b" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_Ordring_py - 2020.06.08 at 11h 32m 03s.xml">
-      <configuration name="pytest in test_Ordring.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_Ordring_py - 2020.06.08 at 11h 33m 36s.xml">
-      <configuration name="pytest in test_Ordring.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_Demo1_test_demo3 - 2020.08.05 at 21h 45m 21s.xml">
-      <configuration name="pytest for test_Demo1.test_demo3" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_demo3_test_demo_login_Outlook - 2020.08.06 at 13h 48m 12s.xml">
-      <configuration name="pytest for test_demo3.test_demo_login_Outlook" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_demo3_py - 2020.08.06 at 13h 48m 32s.xml">
-      <configuration name="pytest in test_demo3.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_test_demo3_py - 2020.08.06 at 13h 48m 47s.xml">
       <configuration name="pytest in test_demo3.py" configurationId="tests" />
     </history-entry>
@@ -393,6 +370,24 @@
     </history-entry>
     <history-entry file="pytest_in_test_demo3_py - 2020.08.09 at 18h 19m 07s.xml">
       <configuration name="pytest in test_demo3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Pytest_Param_test_calcualation - 2020.08.13 at 12h 28m 51s.xml">
+      <configuration name="pytest for Pytest_Param.test_calcualation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Pytest_Param_test_calcualation - 2020.08.13 at 12h 29m 39s.xml">
+      <configuration name="pytest for Pytest_Param.test_calcualation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_param_rough_test_calcualation - 2020.08.13 at 12h 33m 41s.xml">
+      <configuration name="pytest for test_param_rough.test_calcualation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_parameterization_py - 2020.08.13 at 12h 50m 48s.xml">
+      <configuration name="pytest in test_parameterization.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_parameterization_py - 2020.08.13 at 13h 07m 59s.xml">
+      <configuration name="pytest in test_parameterization.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_parameterization_TestBcgLogin_test_login - 2020.08.13 at 13h 10m 28s.xml">
+      <configuration name="pytest for test_parameterization.TestBcgLogin.test_login" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -406,14 +401,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.38394794" visible="true" weight="0.23660715" />
       <window_info id="Structure" order="1" sideWeight="0.61605203" side_tool="true" weight="0.24330357" />
       <window_info id="Favorites" order="2" sideWeight="0.61605203" side_tool="true" weight="0.24330357" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" x="11" y="192" width="1344" height="344" id="Run" order="2" weight="0.34042552" />
+      <window_info anchor="bottom" x="11" y="192" width="1344" height="344" id="Run" order="2" weight="0.6923077" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -757,6 +751,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/test_demo3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/Parrelle_Exeuction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/test_par_exe.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -781,13 +795,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/Parrelle_Exeuction.py">
+    <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/Pytest_Param.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+        <state>
+          <caret selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -801,12 +812,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/test_demo3.py">
+    <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/test_param_rough.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="16" selection-end-column="19" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyTest_Session_Testing/test_parameterization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
